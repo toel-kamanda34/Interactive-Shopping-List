@@ -19,3 +19,5 @@ This shopping list application  is built with HTML, CSS, and JavaScript.
 ## Contributing
 
 Pull requests are welcome. 
+
+http://127.0.0.1:5500/index.html
