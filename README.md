@@ -20,4 +20,4 @@ This shopping list application  is built with HTML, CSS, and JavaScript.
 
 Pull requests are welcome. 
 
-http://127.0.0.1:5500/index.html
+[http://127.0.0.1:5500/index.html] (https://friendly-halva-baae26.netlify.app/)
